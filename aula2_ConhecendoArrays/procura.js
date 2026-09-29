@@ -16,6 +16,6 @@ function exibeNomeENota(aluno){
         console.log('Não existe na lista');
     }
 }
-
-exibeNomeENota('Juliana');
+// procura o nome na lista e depois ele mostra a média 
+exibeNomeENota('Juliana'); 
 exibeNomeENota('Vini');
